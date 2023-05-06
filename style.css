@@ -1,0 +1,23 @@
+body{
+    background-color: yellow;    
+}
+
+.filme_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.filme_head i{
+    float: right;
+}
+
+.Conquistas_text span{
+    color: orange;
+}
+
+h3{
+   top: center;
+}
+
